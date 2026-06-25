@@ -1,3 +1,4 @@
+
 const fetch = require('node-fetch');
 
 async function simpCommand(sock, chatId, quotedMsg, mentionedJid, sender) {
@@ -37,7 +38,7 @@ async function simpCommand(sock, chatId, quotedMsg, mentionedJid, sender) {
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363429495088710@newsletter,
+                    newsletterJid: '120363429495088710@newsletter',
                     newsletterName: '𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝚃𝙴𝙲𝙷',
                     serverMessageId: -1
                 }
