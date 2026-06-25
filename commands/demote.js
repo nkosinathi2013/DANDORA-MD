@@ -5,7 +5,7 @@ async function demoteCommand(sock, chatId, mentionedJids, message) {
         // First check if it's a group
         if (!chatId.endsWith('@g.us')) {
             await sock.sendMessage(chatId, { 
-                text: '𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚌𝚊𝚗 𝚘𝚗𝚕𝚢 𝚋𝚎 𝚞𝚜𝚎𝚍 𝚒𝚗 𝚐𝚛𝚘𝚞𝚙𝚜!'
+                text: 'This command can only be used in groups!'
             });
             return;
         }
@@ -16,14 +16,14 @@ async function demoteCommand(sock, chatId, mentionedJids, message) {
             
             if (!adminStatus.isBotAdmin) {
                 await sock.sendMessage(chatId, { 
-                    text: '❌ 𝙴𝚛𝚛𝚘𝚛: 𝙿𝚕𝚎𝚊𝚜𝚎 𝚖𝚊𝚔𝚎 𝚝𝚑𝚎 𝚋𝚘𝚝 𝚊𝚗 𝚊𝚍𝚖𝚒𝚗 𝚏𝚒𝚛𝚜𝚝 𝚝𝚘 𝚞𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍.'
+                    text: '❌ Error: Please make the bot an admin first to use this command.'
                 });
                 return;
             }
 
             if (!adminStatus.isSenderAdmin) {
                 await sock.sendMessage(chatId, { 
-                    text: '❌ 𝙴𝚛𝚛𝚘𝚛: 𝙾𝚗𝚕𝚢 𝚐𝚛𝚘𝚞𝚙 𝚊𝚍𝚖𝚒𝚗𝚜 𝚌𝚊𝚗 𝚞𝚜𝚎 𝚝𝚑𝚎 𝚍𝚎𝚖𝚘𝚝𝚎 𝚌𝚘𝚖𝚖𝚊𝚗𝚍
+                    text: '❌ Error: Only group admins can use the demote command.'
                 });
                 return;
             }
@@ -67,7 +67,7 @@ async function demoteCommand(sock, chatId, mentionedJids, message) {
         // Add delay to avoid rate limiting
         await new Promise(resolve => setTimeout(resolve, 1000));
 
-        const demotionMessage = `*『 𝙶𝚁𝙾𝚄𝙿 𝙳𝙴𝙼𝙾𝚃𝙸𝙾𝙽 』*\n\n` +
+        const demotionMessage = `*『 𝙶𝚁𝙾𝚄𝙿 𝙳𝙴𝙼𝙾𝚃𝙸𝙾𝙽  』*\n\n` +
             `👤 *𝙳𝚎𝚖𝚘𝚝𝚎𝚍 𝚄𝚜𝚎𝚛${userToDemote.length > 1 ? 's' : ''}:*\n` +
             `${usernames.map(name => `• ${name}`).join('\n')}\n\n` +
             `👑 *𝙳𝚎𝚖𝚘𝚝𝚎𝚍 𝙱𝚢:* @${message.key.participant ? message.key.participant.split('@')[0] : message.key.remoteJid.split('@')[0]}\n\n` +
@@ -136,7 +136,7 @@ async function handleDemotionEvent(sock, groupId, participants, author) {
         // Add delay to avoid rate limiting
         await new Promise(resolve => setTimeout(resolve, 1000));
 
-        const demotionMessage = `*『 𝙶𝚁𝙾𝚄𝙿 𝙳𝙴𝙼𝙾𝚃𝙸𝙾𝙽 』*\n\n` +
+        const demotionMessage = `*『 𝙶𝚁𝙾𝚄𝙿 𝙳𝙴𝙼𝙾𝚃𝙸𝙾𝙽  』*\n\n` +
             `👤 *𝙳𝚎𝚖𝚘𝚝𝚎𝚍 𝚄𝚜𝚎𝚛${participants.length > 1 ? 's' : ''}:*\n` +
             `${demotedUsernames.map(name => `• ${name}`).join('\n')}\n\n` +
             `👑 *𝙳𝚎𝚖𝚘𝚝𝚎𝚍 𝙱𝚢:* ${demotedBy}\n\n` +
