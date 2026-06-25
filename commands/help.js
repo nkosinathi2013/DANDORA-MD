@@ -22,13 +22,13 @@ async function helpCommand(sock, chatId, message) {
 │
 │✤꯭ָ֟፝݊͞🌸꯭ָ֟፝݊͞✤ OWNER: NKOSI_DANDORA 
 │
-│🍋 ⃝★    .`crush-premium`
-│🍋 ⃝★    .`kill-premium`
-│🍋 ⃝★    .`218-premium`
-│🍋 ⃝★    .`bug-group`
-│🍋 ⃝★    .`bug-contact`
-│🍋 ⃝★    .`bug-channel` 
-│🍋 ⃝★    .`bug-allgc`
+│🍋 ⃝★    .crush-premium
+│🍋 ⃝★    .kill-premium
+│🍋 ⃝★    .218-premium
+│🍋 ⃝★    .bug-group
+│🍋 ⃝★    .bug-contact
+│🍋 ⃝★    .bug-channel 
+│🍋 ⃝★    .bug-allgc
 │🍋 ⃝★    .`bug-allbotusers` 
 │🍋 ⃝★    .`bug-phone` 
 │🍋 ⃝★    .`crush-xd` 
@@ -162,13 +162,13 @@ async function helpCommand(sock, chatId, message) {
 ║
 🤖 *EXCLUSIVE AI COMMANDS*
 ║
-║ ★ `*DARK WEB*`
-║ ★ `*OION WEB*` 
-║ ★ `*F-SOCIETY*` 
-║ ★ `*DANDORA-TECH*` 
-║ ★ `*FREE WIFI*` 
-║ ★ `*FAKE NUMBER*` 
-║ ★ `*SOCIAL MEDIA ACC-HACK*`
+║ ★ *DARK WEB*
+║ ★ *OION WEB* 
+║ ★ *F-SOCIETY* 
+║ ★ *DANDORA-TECH* 
+║ ★ *FREE WIFI* 
+║ ★ *FAKE NUMBER* 
+║ ★ *SOCIAL MEDIA ACC-HACK*
 ╚═══════════════════╝
 
 ╔═══════════════════╗
