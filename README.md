@@ -96,7 +96,7 @@
 </a>
 
 ### ☁️ 2. KOYEB DEPLOY
-<a href="https://app.koyeb.com/services/deploy?type=git&repository=ALI-INXIDE/STARK-MD" target="_blank">
+<a 
   <img src="https://img.shields.io/badge/-Koyeb%20Deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white" alt="Koyeb Deploy" width="150" height="28"/>
 </a>
 
@@ -105,9 +105,9 @@
   <img src="https://img.shields.io/badge/DEPLOY%20REPLIT-green?style=for-the-badge&logo=Replit" alt="Replit Deploy" width="150" height="28"/>
 </a>
 
-### 🧩 4. PANEL DEPLOY
-<a href="https://github.com/ALI-INXIDE/STARK-MD_panel_file/archive/refs/heads/main.zip" target="_blank">
-  <img src="https://img.shields.io/badge/Panel%20Zip-000000?style=for-the-badge&logo=botpress&logoColor=white" alt="Panel Zip" width="150" height="28"/>
+### 🧩 4. PANEL DEPLOY 
+
+src="https://img.shields.io/badge/Panel%20Zip-000000?style=for-the-badge&logo=botpress&logoColor=white" alt="Panel Zip" width="150" height="28"/>
 </a>
 
 ### 🎐 5. TALKDROVE FREE
@@ -126,7 +126,7 @@
 </a>
 
 ### 🤖 8. HUGGING DEPLOY
-<a href="https://huggingface.co/spaces/ALI-INXIDE/STARK-MD" target="_blank">
+
   <img src="https://img.shields.io/badge/-Hugging%20Face%20Deploy-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Deploy" width="150" height="28"/>
 </a>
 
@@ -135,7 +135,7 @@
 
 **Hi friends!** Need help? Contact me via WhatsApp 👇  
 
-<a href='https://wa.me/+923437393822?text=*ʜɪɪ+ᴀʟɪ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*' target="_blank">
+<a href='https://wa.me/+27681995218?text=*ʜɪɪ+ᴀʟɪ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+dandora+ʀᴇᴘᴏ!!*' target="_blank">
 <img alt='WhatsApp' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 
@@ -143,7 +143,7 @@
 
 ## 🪀 SUPPORT CHANNEL & GROUP
 
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaoRxGmJpe8lgCqT1T2h)
+[![WhatsApp Channel](https://whatsapp.com/channel/0029VbCVAqwGpLHUXG590W39)](https://whatsapp.com/channel/0029VaoRxGmJpe8lgCqT1T2h)
 
 [![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAPP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/EP0hLj5Pjx89s9VXbzZ3iV?mode=ac_t)
 
@@ -169,6 +169,5 @@
 THANKS FOR SUPPORTING 🙂💗
 ```
 -----
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-------
+
