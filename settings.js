@@ -1,8 +1,8 @@
 const settings = {
-  packname: 'DANDORA-MD,
+  packname: 'DANDORA-MD',
   author: '‎',
   botName: "𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝚃𝙴𝙲𝙷",
-  botOwner: 'NKOSI_DANDORA, // Your name
+  botOwner: 'NKOSI_DANDORA', // Your name
   ownerNumber: '27681995218', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
