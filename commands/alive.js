@@ -6,7 +6,7 @@ async function aliveCommand(sock, chatId, message) {
         const version = settings.version || "2.0";
 
         const caption = `*─━┄๑⚡๑┄━─*\n` +
-                        `    🟢 *𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝙼𝙳 𝚟𝟽 IS ALIVE!* ⚡\n` +
+                        `    🟢 *𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝙼𝙳 IS ALIVE!* ⚡\n` +
                         `*─━┄๑⚡๑┄━─*\n\n` +
                         `✨ *Version:* ${version}\n` +
                         `🟢 *Status:* Online & Active\n` +
