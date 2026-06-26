@@ -1,210 +1,128 @@
-<h1 align="center">
-  <span style="font-size: 3em; background: linear-gradient(45deg, #00ffff, #0080ff, #00ffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 30px #00ffff, 0 0 60px #0080ff;">
-    🚀 SILA MD WHISPER 🚀
-  </span>
-</h1>
+# A smart whatsApp bot By Marinyame-Tech 
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00ffff&size=26&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%94%A5+NEXT+GENERATION+WHATSAPP+BOT+%F0%9F%94%A5;%E2%9A%99%EF%B8%8F+MULTI-DEVICE+SUPPORT+%E2%9A%99%EF%B8%8F;%F0%9F%92%8E+MODULAR+ARCHITECTURE+%F0%9F%92%8E;%F0%9F%94%90+SECURE+%26+FAST+%F0%9F%94%90;%F0%9F%93%81+24%2F7+ACTIVE+%F0%9F%93%81">
+  <img src="https://readme-typing-svg.demolab.com?font=Transformers&size=80&pause=1000&color=0a00FF&center=true&width=1000&height=150&lines=MOSES-XD" alt="Typing SVG" />
 </p>
 
-<div align="center">
+  <div align="center"> 
+  <a href="https://youtube.com/@marinyamestudios"> 
+    <img src="https://github.com/mrmosesclr/moses-xd/blob/main/assets/bot_image.png" alt="MOSES-XD" height="300"> 
+  </a> 
+</div>
 
 <p align="center">
-  <span style="color: #00ffff; font-size: 1.2em;">
-    🔥 <strong>THE ULTIMATE WHATSAPP EXPERIENCE</strong> 🔥
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=1000&color=FF0000&center=true&width=1000&height=80&lines=By+MR+MOSES+CLR" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <em style="color: #cccccc; font-size: 1.1em;">
-    Experience the future of WhatsApp automation with SILA MD - A powerful, feature-rich, and completely customizable multi-device WhatsApp bot designed for modern messaging needs.
-  </em>
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://files.catbox.moe/jwmx1j.jpg" width="200" height="200" style="border-radius:50%;border: 3px solid #00ffff;box-shadow: 0 0 30px #00ffff, 0 0 50px #0080ff;">
-</div>
-
-<br>
-
-## 🎯 **QUICK ACCESS**
-
-<div align="center">
-
-[![Download ZIP](https://img.shields.io/badge/📥_DOWNLOAD_ZIP-00ffff?style=for-the-badge&logo=zip&logoColor=black)](https://github.com/Sila-Md/SILA-MD/archive/refs/heads/main.zip)
-[![Owner](https://img.shields.io/badge/👑_OWNER-255612491554-0080ff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255612491554)
-[![Channel](https://img.shields.io/badge/📢_OFFICIAL_CHANNEL-0029VbBG4gfISTkCpKxyMH02-00ffff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBG4gfISTkCpKxyMH02)
-[![Fork Repository](https://img.shields.io/badge/🍴_FORK_REPO-0080ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sila-Md/SILA-MD/fork)
-
-</div>
-
-<br>
-
-## 🚀 **DEPLOYMENT**
-
-<div align="center">
-
-[![Deploy on Panel](https://img.shields.io/badge/🖥️_DEPLOY_ON_PANEL-00ffff?style=for-the-badge&logo=server&logoColor=black)](https://bot-hosting.net/?aff=1436269328306671689)
-[![Deploy on Heroku](https://img.shields.io/badge/☁️_DEPLOY_ON_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy)
-[![Deploy on Render](https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-46a2b1?style=for-the-badge&logo=render&logoColor=white)](https://render.com/deploy)
-[![KataBump](https://img.shields.io/badge/🔗_KATABUMP-0080ff?style=for-the-badge&logo=link&logoColor=white)](https://dashboard.katabump.com/auth/login#38a45a)
-[![Pair Code](https://img.shields.io/badge/🔐_PAIR_CODE-00ffff?style=for-the-badge&logo=code&logoColor=black)](#)
-
-</div>
-
-<br>
-
-## 🌟 **FEATURES**
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/robot.png" width="60" height="60"><br>
-      <strong>AI Chatbot</strong><br>
-      <span style="color: #00ffff;">GPT-powered conversations</span>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/download.png" width="60" height="60"><br>
-      <strong>Media Downloader</strong><br>
-      <span style="color: #00ffff;">YouTube, Instagram, TikTok</span>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/group.png" width="60" height="60"><br>
-      <strong>Group Manager</strong><br>
-      <span style="color: #00ffff;">Advanced moderation tools</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/controller.png" width="60" height="60"><br>
-      <strong>Entertainment</strong><br>
-      <span style="color: #00ffff;">Games & Fun commands</span>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="60" height="60"><br>
-      <strong>Security</strong><br>
-      <span style="color: #00ffff;">Anti-spam protection</span>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/multiple-devices.png" width="60" height="60"><br>
-      <strong>Multi-Device</strong><br>
-      <span style="color: #00ffff;">Baileys MD support</span>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-## 📊 **TECHNICAL SKILLS**
-
-<div align="center">
-
-| Skill | Level |
-|:------|:-----:|
-| **JavaScript** | ██████████ 100% |
-| **Baileys MD** | ██████████ 100% |
-| **API Integration** | █████████░ 95% |
-| **Security** | ██████████ 98% |
-
-</div>
-
-<br>
-
-## ⚡ **PERFORMANCE METRICS**
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50" height="50"><br>
-      <strong>Response Time</strong><br>
-      <span style="color: #00ffff;">&lt; 1 Second</span>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/uptime.png" width="50" height="50"><br>
-      <strong>Uptime</strong><br>
-      <span style="color: #00ffff;">99.9%</span>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/memory.png" width="50" height="50"><br>
-      <strong>Memory Usage</strong><br>
-      <span style="color: #00ffff;">&lt; 100MB</span>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/available-updates.png" width="50" height="50"><br>
-      <strong>Stability</strong><br>
-      <span style="color: #00ffff;">24/7 Active</span>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-## 🎯 **QUICK COMMANDS**
-
-```bash
-# Bot Prefix: . (dot)
-
-.help      # Show all commands
-.menu      # Display main menu  
-.owner     # Contact owner
-.chatbot   # AI chatbot
-.play      # Download music
-.sticker   # Create stickers
-.tagall    # Mention all members
-```
-
-<br>
-
-## 📋 **DEPLOYMENT STEPS**
-
-### 🖥️ **Panel Hosting (Recommended)**
-```bash
-1. Click "Deploy on Panel" button
-2. Create account on bot-hosting.net
-3. Upload project files
-4. Set environment variables
-5. Start your bot!
-```
-
-### ☁️ **Heroku Deployment**
-```bash
-1. Fork this repository
-2. Click "Deploy on Heroku" button
-3. Connect GitHub account
-4. Set config vars
-5. Deploy and enjoy!
-```
-
-<br>
 
 ---
 
+## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
+
+**1. Fork This Repository**
+
+*_Start by forking Moses-xD to your own GitHub account. Click the button below to fork:_*
+
+  <p align="center">
+  <a href="https://github.com/mrmosesclr/moses-xd"><img title="Developer" src="https://img.shields.io/badge/Author-MUNYARADZI MARINYAME-00FFFF.svg?style=for-the-badge&logo=github"/>
+
+### Get XD Creds.json
 <div align="center">
+  <a href="https://moses-xd-pair-linker.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-9b59b6?style=for-the-badge" alt="Generate Pair Code"/>
+  </a>
+</div>
 
-### **🌟 STAR THIS REPOSITORY IF YOU LIKE SILA MD! 🌟**
-
-[![Stars](https://img.shields.io/github/stars/Sila-Md/SILA-MD?style=for-the-badge&color=00ffff&logo=github)](https://github.com/Sila-Md/SILA-MD/stargazers)
-[![Forks](https://img.shields.io/github/forks/Sila-Md/SILA-MD?style=for-the-badge&color=0080ff&logo=github)](https://github.com/Sila-Md/SILA-MD/network/members)
-[![Issues](https://img.shields.io/github/issues/Sila-Md/SILA-MD?style=for-the-badge&color=00ffff&logo=github)](https://github.com/Sila-Md/SILA-MD/issues)
+After getting creds.json file, upload it to session folder
 
 ---
 
-**💫 Built with ❤️ by [SILA TECH](https://github.com/Sila-Md) 💫**
+**Step 3: Deploy Now**
 
-<br>
+For further customization and setup guidance, click the button below:
 
 <div align="center">
+  <a href="[https:](https://youtu.be/_hq7_NeSREc?si=9OHDiIEvcLWls39C)">
+    <img src="https://img.shields.io/badge/Deploy Tutorial-000000?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
+  </a>
+</div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=100&section=footer)
+### Panel Deployment
 
+For further customization and setup guidance, click the button below:
+
+<div align="center">
+  <a href="https://bot-hosting.net/?aff=1068419752923508776">
+    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
+  </a>
+</div>
+
+
+### Deploy Now on Below Panel
+<div align="center">
+<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
+  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+</a>
+</div>
+
+### Join Us
+
+<div align="center">
+  <a href="https://t.me/mrmosesclr">
+    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
+  </a>
+  <a href="https://whatsapp.com/channel/0029VbAJcz56GcG5OcRCbN28">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WA.Channel"/>
+  </a>
+</div>
+
+---
+
+## 🙌 Contributions
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mrmosesclr/moses-xd/issues).
+
+---
+
+## 🌟 Show your support
+
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mrmosesclr/moses-xd/star)!
+
+
+## Credits
+
+- [Munyaradzi-Marinyame](https://github.com/mrmosesclr)
+- [Baileys](https://github.com/adiwajshing/Baileys)
+- [xd](https://whatsapp.com/channel/0029VbAJcz56GcG5OcRCbN28))
+
+---
+
+## ⚠️ Important Warning
+
+**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
+
+## 📝 Legal
+
+- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
+- This is an independent and unofficial software. Use at your own risk.
+- Do not spam people with this bot.
+- Do not use this bot to send bulk messages or for illegal purposes.
+- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
+
+### License
+This project is licensed under the MIT License. However, you must:
+- Use this software in compliance with all applicable laws and regulations
+- Include original license and copyright notices
+- Credit original authors
+- Not use for spam or malicious purposes
+
+## 📜 Copyright Notice
+
+Copyright (c) 2025 Munyaradzi V Marinyame. All rights reserved.
+![Mr Moses](https://files.catbox.moe/vzzoi2.jpg)
+
+
+This project contains code from various open source projects:
+- Baileys (MIT License)
+- Other libraries as listed in package.json
